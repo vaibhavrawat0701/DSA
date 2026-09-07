@@ -3,5 +3,6 @@ public class App  {
         //System.out.println("Hello, World");
         //Default ctor
         Student A = new Student();
+        Student B = new Student();
     }
 }
